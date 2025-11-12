@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Water Bottle
+title: Water Bottle (MAE2250)
 description: I decided to CAD my everyday waterbottle
 technologies: [SolidWorks, Machining]
 image: /assets/images/waterbottleimg.png
@@ -8,18 +8,12 @@ image: /assets/images/waterbottleimg.png
 
 ## Interactive 3D Model
 
-<iframe src="https://github.com/jasonbak02/fa25-jasonbakportfolio/blob/main/assets/waterbottlestl.stl" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
-
-[Open in full screen](https://github.com/jasonbak02/fa25-jasonbakportfolio/blob/main/assets/waterbottlestl.stl)
+[Play with the STL File!](https://github.com/jasonbak02/fa25-jasonbakportfolio/blob/main/assets/waterbottlestl.stl)
 ## Overview
-I modeled my everyday water bottle in SolidWorks to practice realistic part modeling and threading features.
+In MAE 2250 Introduction to Mechanical Design, I was assigned to pick an everyday object that I frequently use and make a detailed render of it in Solidworks. As someone who had little to no CAD experience (at the time), this task seemed pretty daunting. I ended up modeling my everyday water bottle in SolidWorks to practice realistic part modeling and threading features. I actually learned a ton about the process of designing something from scratch and was able to use it in my summer internship where I used Solidworks to design fluid systems. 
 
 
 ## Design Features
 - Accurately modeled threads for the cap
 - Realistic bottle contours and grip texture
 - Proper wall thickness for manufacturing
-
-## Tools Used
-- **SolidWorks** for 3D modeling
-- Export to STL for visualization
