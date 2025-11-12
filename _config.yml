@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jason Bak
 description              : Jason Bak - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+base_url: "/fa25-jasonbakportfolio"
 
 # Theme and Style
 theme: jekyll-theme-minimal
